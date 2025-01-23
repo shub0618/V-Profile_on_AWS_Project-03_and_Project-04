@@ -21,9 +21,9 @@ This `README.md` provides an index of all key components of the repository to he
 The repository is organized as follows:
 
 ```plaintext
-├── Architecture/
 ├── AWS(Lift and Shift)/
 ├── AWS(Refactor)/
+├── Architecture/
 ├── LICENSE/
 └── README.md
 ```
